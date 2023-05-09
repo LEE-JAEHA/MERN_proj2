@@ -1,7 +1,15 @@
 import React from 'react';
+import {BrowserRoutera as Router} from 'react-router-dom';
+// ES
 
-function App() {
-  return <h1>Let's start!</h1>;
+// 라우터를 사용하는 앱 일부 감싸기 
+
+const App =() => {
+  return <Router>
+    
+  </Router>
+  
+  ;
 }
 
 export default App;
