@@ -1,11 +1,11 @@
 import React, { useSyncExternalStore } from 'react';
 
-
+import Avatar from "../../shared/components/UIElements/Avatar"
 import "./UserItem.css"
 
 const UserItem = props  =>{
     return <li className="user-Item">
-            <div className="user-item_content">
+            <div className="user-item__content">
                 <div className="user-item__image">
                     <img src={props.image} alt={props.name}/>
                 </div>
