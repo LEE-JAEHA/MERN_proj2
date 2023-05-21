@@ -8,10 +8,9 @@ import "./MainNavigation.css"
 const MainNavigation = props =>{
     return( 
         <React.Fragment>
-            <SideDrawer className="main-navigation__drawer-bar">
-                <nav>
-                    <NavLinks/>
-                    
+            <SideDrawer >
+                <nav className="main-navigation__drawer-nav">
+                    <NavLinks/>      
                 </nav>
             </SideDrawer>
             <MainHeader>
