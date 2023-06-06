@@ -10,7 +10,7 @@ const DUMMY_PLACES = [
         id:"P1",
         title:"Empire State Building",
         description:"One of the most famous sky",
-        imageUrl:"https://i.namu.wiki/i/g0UUQVxY7YSPfORnHGzAO2B3sydw2zb3zpV-82gbemYh--Q-WhRyoHksevdQxeHqACO-b8MNzHbx_vmrB1G2enPsIovL2fO2Z0iUIEV_dXaG5kmHrWhJRFmglDm6BwYvKn0gQBU3wguIP09gOFGp2A.webp",
+        imageUrl:"https://i.namu.wiki/i/wIOgKOt8n_JAaW6WQMfETUXW0qzYg3nYR8Em6QXDAoyEBwopS1zRJSFM4ysrkl9srZel8iHybbbLcHNZ5F94cS_zV8o_NiHGXxulWTbWjD_wmmyhw_ty94YkxPxP5RPWeH8WvJbw9BvCsaCjMj2-Lw.webp",
         address : "20 W 34th St., New York, NY 10001",
         location:{
             lat:40.7484405,
